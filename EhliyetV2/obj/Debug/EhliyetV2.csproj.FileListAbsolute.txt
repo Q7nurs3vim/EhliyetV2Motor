@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\bin\Debug\EhliyetV2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\bin\Debug\EhliyetV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\bin\Debug\EhliyetV2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\EhliyetV2\EhliyetV2\obj\Debug\EhliyetV2.pdb
